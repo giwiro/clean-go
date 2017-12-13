@@ -1,0 +1,7 @@
+{
+  "postgresql": {
+    "uri": "postgres://user:password@localhost/test"
+  },
+  "port": 8080,
+  "environment": "dev"
+}
